@@ -26,7 +26,7 @@ This project analyzes Superstore sales data using Python, SQL, and Tableau. It p
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/YOURUSERNAME/superstore-sales-dashboard.git
+    git clone https://github.com/nickrolen/superstore-sales-dashboard.git
     ```
 2. Navigate to the project folder:
     ```bash
