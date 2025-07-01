@@ -1,4 +1,4 @@
-# Executive Sales Dashboard
+# Superstore Sales Dashboard
 
 This project analyzes Superstore sales data using Python, SQL, and Tableau. It provides a comprehensive view of sales trends, top-performing products, regional performance, and year-over-year growth to support executive decision-making.
 
