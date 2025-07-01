@@ -2,7 +2,7 @@
 
 This project analyzes Superstore sales data using Python, SQL, and Tableau. It provides a comprehensive view of sales trends, top-performing products, regional performance, and year-over-year growth to support executive decision-making.
 
----## Features
+## Features
 
 - **Sales Over Time**: Identify seasonal sales patterns and growth.
 - **Top 10 Products**: Quickly see which products drive the most revenue.
